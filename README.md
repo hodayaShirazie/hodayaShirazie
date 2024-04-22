@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 software engineering student
 ----------------------------
 
-Welcome to my GitHub profile! I'm a passionate software engineering student with a keen interest in cutting-edge technologies and innovative solutions. Join me on this exciting coding journey as we explore the boundless possibilities of the tech world.
+Welcome to my GitHub profile! I'm a software engineering student with a keen interest in cutting-edge technologies and innovative solutions. Join me on this exciting coding journey as we explore the boundless possibilities of the tech world.
 
 * ✉️  You can contact me at [HodaySh@ac.sce.ac.il](mailto:HodaySh@ac.sce.ac.il)
 
